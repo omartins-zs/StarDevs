@@ -1,3 +1,80 @@
- <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700&display=swap" rel="stylesheet">
+
+
+api utilizada https://swapi.dev/api/ 
+
+api swagger quotes https://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote
+
+   
+Google Fonts   Nunito 
+
+Regular 300
+
+Regular 400 
+
+Regular 600
+
+Estilizando Form, Label, Input e Button
+
+
+https://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote
+
+
+Esse curso é voltado para o público iniciante e é 100% focado na prática! Se você está iniciando os estudos e possui interesse no desenvolvimento front-end, vem comigo e vamos desenvolver esses três projetos juntos!
+
+
+
+Objetivos do curso:
+
+Ajudar você a aperfeiçoar suas habilidades com HTML5, CSS3, Javascript (Utilizaremos apenas essas três tecnologias, sem nenhuma biblioteca ou framework).
+
+Ajudar você a avançar no front-end.
+
+
+
+Requisitos:
+
+Entendimento básico de HTML, CSS e Javascript.
+
+Lógica de programação.
+
+Muita vontade de aprender!
+
+
+Por que eu deveria aprender essas três techs?
+
+- Simples, esse trio é o que sustenta qualquer página web. São os pilares da programação web front-end e com elas podemos fazer coisas incríveis.
+
+
+
+Iremos desenvolver três projetos :
+
+Login-Helper (Uma tela com um formulário para login - básico)
+
+
+GuessNumber (Um mini-game onde você precisa adivinhar o número que a máquina está "pensando" - intermediário)
+
+
+Star-Front (Consumo de API utilizando Javascript puro e mostrando os dados para o usuário - Avançado)
+
+
+
+Todos os projetos são bem divididos no uso das três tecnologias. Foco na semântica do HTML, desenvolver um bom design com recursos avançados do CSS3 e a lógica de cada aplicação com o Javascript.
+
+
+
+Espero que goste do conteúdo e extraia algum conhecimento. Qualquer dúvida você pode entrar em contato comigo pelo meu perfil, sinta-se a vontade!
+
+Não esqueça de deixar o seu feedback.
+
+Bora turbinar os portfólios!
+
+O que você aprenderá
+HTML5
+Javascript
+CSS3
+Consumo de API
+Há algum requisito ou pré-requisito para o curso?
+Entendimento básico de HTML5, CSS3 e Javascript.
+Lógica de programação
+Para quem é este curso:
+Desenvolvedores Frontend iniciantes

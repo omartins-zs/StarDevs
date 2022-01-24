@@ -14,7 +14,7 @@ function fillCounters() {
       persons.style.fontSize = '5em';
       starships.style.fontSize = '5em';
       planets.style.fontSize = '5em';
-      console.log(data);
+      // console.log(data);
 
       persons.innerHTML = data[0].count;
       starships.innerHTML = data[1].count;
@@ -32,10 +32,10 @@ function loadPhrase() {
   const btn = document.getElementById('btn-phrases');
   const phrase = document.getElementById('phrase');
 
-  return fetch('http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote')
+  return fetch('https://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote')
     .then(data => data.json())
     .then(json => {
-      console.log(json);
+      // console.log(json);
       btn.innerHTML = 'Ver mais uma frase!';
       phrase.innerHTML = `"${json.content}"`;
 

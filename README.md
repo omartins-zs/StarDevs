@@ -1,6 +1,15 @@
-# StarDevs
-Consumo de API Publica utilizando Javascript puro e mostrando os dados para o usuário
 
+<h1 align="center">StarDevs</h1>
+
+<p align="center">
+ Consumo de API Publica utilizando Javascript puro e mostrando os dados para o usuário
+</p>
+
+<br>
+
+<h4 align="center"> 
+    :construction:  StarDevs ⭐👨‍💻 Concluído  :construction:
+</h4>
 
 ## 🚀 Tecnologias
 

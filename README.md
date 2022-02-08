@@ -1,10 +1,13 @@
 
-<h1 align="center">StarDevs</h1>
+<h1 align="center">Star Devs</h1>
 
 <p align="center">
- Consumo de API Publica utilizando Javascript puro e mostrando os dados para o usuário
+<i> Consumo de API Publica do Star Wars utilizando Javascript puro e mostrando os dados para o usuário</i>
 </p>
 
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/StarDevs.gif" />
+</h1>
 <br>
 
 <h4 align="center"> 

@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Utilitarios
 
+-  Curso da Udemy **[HTML5, CSS3 e Javascript na prática (3 Projetos)](https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)**
  - API: **[Swapi.dev](https://swapi.dev/api/),     [SwaggerRandomStarWarsQuote](https://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote)**
 -  Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 -  Fontes: **[Nunito](https://fonts.google.com/specimen/Nunito)**

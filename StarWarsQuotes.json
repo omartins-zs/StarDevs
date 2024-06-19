@@ -1,0 +1,82 @@
+[
+    {
+        "character": "Darth Vader",
+        "quote": "I am your father."
+    },
+    {
+        "character": "Yoda",
+        "quote": "Do, or do not. There is no try."
+    },
+    {
+        "character": "Obi-Wan Kenobi",
+        "quote": "The Force will be with you. Always."
+    },
+    {
+        "character": "Princess Leia",
+        "quote": "Help me, Obi-Wan Kenobi. You're my only hope."
+    },
+    {
+        "character": "Luke Skywalker",
+        "quote": "I’m Luke Skywalker, I’m here to rescue you."
+    },
+    {
+        "character": "Han Solo",
+        "quote": "Never tell me the odds!"
+    },
+    {
+        "character": "Emperor Palpatine",
+        "quote": "Power! Unlimited power!"
+    },
+    {
+        "character": "Qui-Gon Jinn",
+        "quote": "Your focus determines your reality."
+    },
+    {
+        "character": "C-3PO",
+        "quote": "I am C-3PO, human-cyborg relations."
+    },
+    {
+        "character": "R2-D2",
+        "quote": "*Beep beep boop*"
+    },
+    {
+        "character": "Chewbacca",
+        "quote": "Aargh!"
+    },
+    {
+        "character": "Anakin Skywalker",
+        "quote": "I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+    },
+    {
+        "character": "Mace Windu",
+        "quote": "This party’s over."
+    },
+    {
+        "character": "Boba Fett",
+        "quote": "He's no good to me dead."
+    },
+    {
+        "character": "Count Dooku",
+        "quote": "I've been looking forward to this."
+    },
+    {
+        "character": "Jabba the Hutt",
+        "quote": "Bring me Solo and the Wookiee. They will all suffer for this outrage."
+    },
+    {
+        "character": "Lando Calrissian",
+        "quote": "You truly belong here with us among the clouds."
+    },
+    {
+        "character": "Admiral Ackbar",
+        "quote": "It's a trap!"
+    },
+    {
+        "character": "Padmé Amidala",
+        "quote": "So this is how liberty dies… with thunderous applause."
+    },
+    {
+        "character": "Kylo Ren",
+        "quote": "I will finish what you started."
+    }
+]

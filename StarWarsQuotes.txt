@@ -1,0 +1,27 @@
+CREATE TABLE StarWarsQuotes (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    character_name VARCHAR(50),
+    quote TEXT
+);
+
+INSERT INTO StarWarsQuotes (character_name, quote) VALUES
+('Darth Vader', 'I am your father.'),
+('Yoda', 'Do, or do not. There is no try.'),
+('Obi-Wan Kenobi', 'The Force will be with you. Always.'),
+('Princess Leia', 'Help me, Obi-Wan Kenobi. You\'re my only hope.'),
+('Luke Skywalker', 'I’m Luke Skywalker, I’m here to rescue you.'),
+('Han Solo', 'Never tell me the odds!'),
+('Emperor Palpatine', 'Power! Unlimited power!'),
+('Qui-Gon Jinn', 'Your focus determines your reality.'),
+('C-3PO', 'I am C-3PO, human-cyborg relations.'),
+('R2-D2', '*Beep beep boop*'),
+('Chewbacca', 'Aargh!'),
+('Anakin Skywalker', 'I don’t like sand. It’s coarse and rough and irritating and it gets everywhere.'),
+('Mace Windu', 'This party’s over.'),
+('Boba Fett', 'He\'s no good to me dead.'),
+('Count Dooku', 'I\'ve been looking forward to this.'),
+('Jabba the Hutt', 'Bring me Solo and the Wookiee. They will all suffer for this outrage.'),
+('Lando Calrissian', 'You truly belong here with us among the clouds.'),
+('Admiral Ackbar', 'It\'s a trap!'),
+('Padmé Amidala', 'So this is how liberty dies… with thunderous applause.'),
+('Kylo Ren', 'I will finish what you started.');
